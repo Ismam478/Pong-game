@@ -1,4 +1,4 @@
-Modern Pong
+Pong Game
 
 A modern implementation of the classic Pong game built with HTML5 Canvas and vanilla JavaScript, featuring AI opponents, multiple difficulty levels, sound effects, and mobile support.
 
